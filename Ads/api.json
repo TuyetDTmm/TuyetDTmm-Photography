@@ -1,13 +1,49 @@
 {
   "ads": [
     {
-      "appName": "BÓI TOÁN",
-      "pubName": "VINA APPS",
-      "icon": "https://lh3.ggpht.com/3vqU91ewhzBI4kAxGhd2ak1WFJJETGXEg23uuMjL9-D7uHAphK1eLgZkiD1kHs4m2JgX=w300-rw",
-      "description": "Xem tu vi trong nam nay cua ban: su nghiep, tai van, hon nhan gia dinh, suc khoe va huong hoa giai",
-      "promotionPhoto": "https://lh4.ggpht.com/4pD8KKiOyuvkpm4Dq3Hco8vnZi8oOOblgd6AImXVukFnM9PZvjNFbVI0bggI26T0aoM=h310-rw",
-      "promotionLink": "https://play.google.com/store/apps/details?id=vina.apps.boi.toan.kinh.dich.tu.vi",
-      "packageName": "vina.apps.boi.toan.kinh.dich.tu.vi"
+      "appName": "Fast Charging",
+       "pubName": "MOBILITY STUDIO",
+      "icon": "https://lh3.googleusercontent.com/lyB5pOd76UAADU7LmZq5-sUsyeZvyX8qFCwrB5flNxSAJz7nr2GNs-XyfkqMyTvmwkA=w300-rw",
+      "description": "Fast Charging is an ultimate tool, which can boost your battery charging speed by 20-40%. This app will automatically activate when you connect your charger and it will boost your charging speed.",
+      "promotionPhoto": "https://lh3.googleusercontent.com/7Mirid6RvZjEmN9Bm4jo0WWF7ryD9h--Q0GRodki4NVzYGmHhO4H-QhPcom_9vNI2w=h310-rw",
+      "promotionLink": "https://play.google.com/store/apps/details?id=chargerbooster.charger.faster.booster",
+      "packageName": "chargerbooster.charger.faster.booster"
+    },
+    {
+      "appName": "Battery Saver",
+       "pubName": "MOBILITY STUDIO",
+      "icon": "https://lh3.googleusercontent.com/lnGIcMdcMl15gyTbJG4EB0P_4hdAu1h9l3qTlhSVjn55yXcxuvfxlbuY9qPk5GxZIiM=w300-rw",
+      "description": "When the power is insufficient in your device, you can click OPTIMIZE mode to activate the mode. At the time the following changes will occur...",
+      "promotionPhoto": "https://lh3.googleusercontent.com/av-Z-ZnlxYMOu4dH72IZZ31y7zf3gXjr8MpVrMuwUXSnCRJ4WGMvTYJNMKB5Zr6U20dS=h310-rw",
+      "promotionLink": "https://play.google.com/store/apps/details?id=booster.battery.saver.batterysaver",
+      "packageName": "booster.battery.saver.batterysaver"
+    },
+    {
+      "appName": "Call Screen Lock",
+       "pubName": "MOBILITY STUDIO",
+      "icon": "https://lh3.googleusercontent.com/q2v699KxnAKYRnekJskutcE4vF_NuUQmLcDkEvlq1gB7Q-DLY8XRBOSOMPIqqcEJ-qE=w300-rw",
+      "description": "Have you ever been in situation, your phone hang up right in the middle of a conversation? Download now 'Call Screen Lock' to help you get rid of this nuisance.",
+      "promotionPhoto": "https://lh3.googleusercontent.com/OBDmeSKuRRwS60nyOTgY8tkXEmxmtIyf01sYSblL3XAyittPcYIFvlOXTUSUXhtx9w=h900-rw",
+      "promotionLink": "https://play.google.com/store/apps/details?id=mobility.call.sreen.lock.callscreenlocker",
+      "packageName": "mobility.call.sreen.lock.callscreenlocker"
+    },
+    {
+      "appName": "Portable Wi-Fi Hotspot",
+       "pubName": "MOBILITY STUDIO",
+      "icon": "https://lh3.ggpht.com/Q3h6sxCJruzkOrc0eWbjF1SkeN8d--28gNfKfII13YSZ38jg0affregpTWUGetdF_sc=w300-rw",
+      "description": "Turn on Portable Wi-Fi hotspot, improve your mobile computing experience. Simple and fast.",
+      "promotionPhoto": "https://lh5.ggpht.com/P1nWkjx45eTXj7BOSbZ6cApN1LUwFEVIdxIF0je5i2BZkr7s7sC7l8mmPYYW0T0NryqH=h900-rw",
+      "promotionLink": "https://play.google.com/store/apps/details?id=mobility.studio.wifi.hospot",
+      "packageName": "mobility.studio.wifi.hospot"
+    },
+    {
+      "appName": "App locker Master",
+       "pubName": "MOBILITY STUDIO",
+      "icon": "https://lh4.ggpht.com/MOIQLv3UF9IDpORcjQPrG1rpd1H-D8SscJpxjoQeiyW1eaCMIkVwHDmzd8sxbrPCLVnc=w300-rw",
+      "description": "THE BEST OF APP LOCK WITH STRONG SECURITY FEATURE & PERFECT UI",
+      "promotionPhoto": "https://lh5.ggpht.com/E14Y_7uxHpbMnCYTBKOoqXE3V-81JNj_ZjVbsIjp8tOJ4S6jXfGnsalcydUPP8ivHg=h900-rw",
+      "promotionLink": "https://play.google.com/store/apps/details?id=mobility.studio.applocker.master",
+      "packageName": "mobility.studio.applocker.master"
     }
   ]
 }
