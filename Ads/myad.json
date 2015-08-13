@@ -1,14 +1,52 @@
 {
   "recommend": {
-      "icon": "https://lh3.googleusercontent.com/lnGIcMdcMl15gyTbJG4EB0P_4hdAu1h9l3qTlhSVjn55yXcxuvfxlbuY9qPk5GxZIiM=w300-rw",
-      "name": "Battery Saver",
-      "packageName": "booster.battery.saver.batterysaver",
-      "appId": "",
-      "link": "https://play.google.com/store/apps/details?id=booster.battery.saver.batterysaver",
-      "description": "The world’s leading battery saver and Android power doctor & manager.",
-      "category": "Productivity",
-      "adsType": "0",
-      "position": "On top tab 1",
-      "feature": "https://lh3.googleusercontent.com/av-Z-ZnlxYMOu4dH72IZZ31y7zf3gXjr8MpVrMuwUXSnCRJ4WGMvTYJNMKB5Zr6U20dS=h900-rw"
-    } 
+    "icon": "https://lh3.googleusercontent.com/lnGIcMdcMl15gyTbJG4EB0P_4hdAu1h9l3qTlhSVjn55yXcxuvfxlbuY9qPk5GxZIiM=w300-rw",
+    "name": "Battery Saver",
+    "packageName": "booster.battery.saver.batterysaver",
+    "appId": "",
+    "link": "https://play.google.com/store/apps/details?id=booster.battery.saver.batterysaver",
+    "description": "The world’s leading battery saver and Android power doctor & manager.",
+    "category": "Productivity",
+    "adsType": "0",
+    "position": "On top tab 1",
+    "feature": "https://lh3.googleusercontent.com/av-Z-ZnlxYMOu4dH72IZZ31y7zf3gXjr8MpVrMuwUXSnCRJ4WGMvTYJNMKB5Zr6U20dS=h900-rw",
+    "list": [
+      {
+        "icon": "https://lh3.googleusercontent.com/lnGIcMdcMl15gyTbJG4EB0P_4hdAu1h9l3qTlhSVjn55yXcxuvfxlbuY9qPk5GxZIiM=w300-rw",
+        "name": "Battery Saver",
+        "packageName": "booster.battery.saver.batterysaver",
+        "appId": "",
+        "link": "https://play.google.com/store/apps/details?id=booster.battery.saver.batterysaver",
+        "description": "The world’s leading battery saver and Android power doctor & manager.",
+        "category": "Productivity",
+        "adsType": "0",
+        "position": "On top tab 1",
+        "feature": "https://lh3.googleusercontent.com/av-Z-ZnlxYMOu4dH72IZZ31y7zf3gXjr8MpVrMuwUXSnCRJ4WGMvTYJNMKB5Zr6U20dS=h900-rw"
+      },
+      {
+        "icon": "https://lh3.googleusercontent.com/lnGIcMdcMl15gyTbJG4EB0P_4hdAu1h9l3qTlhSVjn55yXcxuvfxlbuY9qPk5GxZIiM=w300-rw",
+        "name": "Battery Saver",
+        "packageName": "booster.battery.saver.batterysaver",
+        "appId": "",
+        "link": "https://play.google.com/store/apps/details?id=booster.battery.saver.batterysaver",
+        "description": "The world’s leading battery saver and Android power doctor & manager.",
+        "category": "Productivity",
+        "adsType": "0",
+        "position": "On top tab 1",
+        "feature": "https://lh3.googleusercontent.com/av-Z-ZnlxYMOu4dH72IZZ31y7zf3gXjr8MpVrMuwUXSnCRJ4WGMvTYJNMKB5Zr6U20dS=h900-rw"
+      },
+      {
+        "icon": "https://lh3.googleusercontent.com/lnGIcMdcMl15gyTbJG4EB0P_4hdAu1h9l3qTlhSVjn55yXcxuvfxlbuY9qPk5GxZIiM=w300-rw",
+        "name": "Battery Saver",
+        "packageName": "booster.battery.saver.batterysaver",
+        "appId": "",
+        "link": "https://play.google.com/store/apps/details?id=booster.battery.saver.batterysaver",
+        "description": "The world’s leading battery saver and Android power doctor & manager.",
+        "category": "Productivity",
+        "adsType": "0",
+        "position": "On top tab 1",
+        "feature": "https://lh3.googleusercontent.com/av-Z-ZnlxYMOu4dH72IZZ31y7zf3gXjr8MpVrMuwUXSnCRJ4WGMvTYJNMKB5Zr6U20dS=h900-rw"
+      }
+    ]
+  }
 }
