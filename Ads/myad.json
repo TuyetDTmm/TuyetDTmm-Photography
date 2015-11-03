@@ -14,7 +14,7 @@
       {
         "icon": "https://lh3.googleusercontent.com/lnGIcMdcMl15gyTbJG4EB0P_4hdAu1h9l3qTlhSVjn55yXcxuvfxlbuY9qPk5GxZIiM=w300-rw",
         "name": "Battery Saver",
-        "packageName": "booster.battery.saver.batterysaver",
+        "packageName": "mobility.studio.wifi.hospot",
         "appId": "",
         "link": "https://play.google.com/store/apps/details?id=booster.battery.saver.batterysaver",
         "description": "The world’s leading battery saver and Android power doctor & manager.",
