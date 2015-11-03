@@ -2,7 +2,7 @@
   "recommend": {
     "icon": "https://lh3.googleusercontent.com/dMmOKWqDf72lWXIUqTDHLnuuuZ8Igr1BFplVQ_H-5GKHtWqhDmWUD8gdBulegmNX-OI=w300-rw",
     "name": "App Lock",
-    "packageName": "mobility.studio.applocker.master",
+    "packageName": "mobility.studio.wifi.hospot",
     "appId": "",
     "link": "https://play.google.com/store/apps/details?id=mobility.studio.applocker.master",
     "description": "App Lock can lock SMS, Contracts, Gallery, Photo, Video, Gmail and any app you want to protect your privacy.",
@@ -14,7 +14,7 @@
       {
         "icon": "https://lh3.googleusercontent.com/lnGIcMdcMl15gyTbJG4EB0P_4hdAu1h9l3qTlhSVjn55yXcxuvfxlbuY9qPk5GxZIiM=w300-rw",
         "name": "Battery Saver",
-        "packageName": "mobility.studio.wifi.hospot",
+        "packageName": "booster.battery.saver.batterysaver",
         "appId": "",
         "link": "https://play.google.com/store/apps/details?id=booster.battery.saver.batterysaver",
         "description": "The world’s leading battery saver and Android power doctor & manager.",
